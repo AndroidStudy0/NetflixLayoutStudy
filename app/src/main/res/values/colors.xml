@@ -2,4 +2,12 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <!-- custom netflix -->
+    <color name="primary">#E70001</color>
+    <color name="primary_variation">#AA0407</color>
+    <color name="secondary">#f70000</color>
+    <color name="background">#171417</color>
+
+    <color name="menu_navigation">@color/white</color>
 </resources>
